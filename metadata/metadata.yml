@@ -469,3 +469,7 @@ include:
     arch: linux/amd64
     icon: zotero.png
     description: "Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research."
+  - name: vim 
+    full_name: Vim 
+    arch: linux/amd64 
+    icon: vim.svg
